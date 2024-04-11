@@ -16,4 +16,4 @@ Let’s consider the following scenario: We have a product that will be stored i
 
 To generate source event from json file: `mvn jsonschema-events:events-generation -f pom.xml`
 
-Run example of test file is located on `src/test/java/com/backbase/testcontainers/ProductPriceChangedEventHandlerTest.java`
+Run example of the [test file](https://github.com/Backbase/working-with-testcontainers/blob/main/src/test/java/com/backbase/testcontainers/ProductPriceChangedEventHandlerTest.java)
